@@ -74,7 +74,7 @@ export default {
   			}
   		},
 		backgroundImage: {
-			hero: "url('/images/hero-background.png')"
+			hero: "url('/images/hero-background-green.jpg')"
 		},
   		borderRadius: {
   			lg: 'var(--radius)',
