@@ -1,0 +1,5 @@
+npm install -g create-next-app
+npx create-next-app directory-destination --typescript --tailwind --eslint (enter the project needs)
+npm install -g shadcn
+shadcn init (enter the project needs)
+shadcn add button
